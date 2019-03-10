@@ -14,7 +14,7 @@ Dependencies:
 
 
 Usage:
-	python inference.py --test_dir=<path to directory with images>
+	python inference.py --test_dir="path to directory with images"
 
 
   
