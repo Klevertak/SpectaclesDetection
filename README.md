@@ -10,7 +10,8 @@ Dependencies:
   sklearn,
   pickle,
   dlib,
-  tqdm
+  tqdm,
+  keras
 
 
 Usage:
