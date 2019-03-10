@@ -1,13 +1,22 @@
 # SpectaclesDetection
 
 Dependencies:
-  cv2, 
+  opencv, 
   numpy, 
   matplotlib, 
   imutils, 
   skimage,  
   scipy, 
-  sklearn
+  sklearn,
+  pickle,
+  dlib,
+  tqdm
+
+
+Usage:
+	python inference.py --test_dir=<path to directory with images>
+
+
   
  
   
