@@ -1,5 +1,7 @@
 # SpectaclesDetection
 
+Model to detect, whether there are spectacles on photo, or not.
+
 Dependencies:
   opencv, 
   numpy, 
